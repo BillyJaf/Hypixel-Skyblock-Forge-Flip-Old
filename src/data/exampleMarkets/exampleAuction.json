@@ -1,0 +1,408 @@
+{
+  "lbin": [
+    {
+      "itemName": "Mithril Pickaxe",
+      "itemPrice": 1180000
+    },
+    {
+      "itemName": "Beacon II",
+      "itemPrice": 5399999
+    },
+    {
+      "itemName": "Titanium Talisman",
+      "itemPrice": 1500000
+    },
+    {
+      "itemName": "Bejeweled Collar",
+      "itemPrice": 2900000
+    },
+    {
+      "itemName": "Mithril Gauntlet",
+      "itemPrice": 179999
+    },
+    {
+      "itemName": "Mithril Belt",
+      "itemPrice": 179999
+    },
+    {
+      "itemName": "Mithril Cloak",
+      "itemPrice": 170000
+    },
+    {
+      "itemName": "Mithril Necklace",
+      "itemPrice": 200000
+    },
+    {
+      "itemName": "Refined Mithril Pickaxe",
+      "itemPrice": 3000000
+    },
+    {
+      "itemName": "Mithril Drill SX-R226",
+      "itemPrice": 7450000
+    },
+    {
+      "itemName": "Mithril-Infused Fuel Tank",
+      "itemPrice": 14149000
+    },
+    {
+      "itemName": "Mithril-Plated Drill Engine",
+      "itemPrice": 17400000
+    },
+    {
+      "itemName": "Beacon III",
+      "itemPrice": 11200000
+    },
+    {
+      "itemName": "Titanium Ring",
+      "itemPrice": 5900000
+    },
+    {
+      "itemName": "Pesto Goblin Omelette",
+      "itemPrice": 4400000
+    },
+    {
+      "itemName": "[Lvl 1] Ammonite",
+      "itemPrice": 799999
+    },
+    {
+      "itemName": "Ruby Drill TX-15",
+      "itemPrice": 5700000
+    },
+    {
+      "itemName": "Titanium Gauntlet",
+      "itemPrice": 11270000
+    },
+    {
+      "itemName": "Titanium Belt",
+      "itemPrice": 11418571
+    },
+    {
+      "itemName": "Titanium Cloak",
+      "itemPrice": 13900000
+    },
+    {
+      "itemName": "Titanium Necklace",
+      "itemPrice": 11800000
+    },
+    {
+      "itemName": "[Lvl 1] Mole",
+      "itemPrice": 2600000
+    },
+    {
+      "itemName": "Mithril Drill SX-R326",
+      "itemPrice": 18000000
+    },
+    {
+      "itemName": "Titanium-Plated Drill Engine",
+      "itemPrice": 32400000
+    },
+    {
+      "itemName": "Goblin Omelette",
+      "itemPrice": 1340000
+    },
+    {
+      "itemName": "Beacon IV",
+      "itemPrice": 26900000
+    },
+    {
+      "itemName": "Sunny Side Goblin Omelette",
+      "itemPrice": 5590000
+    },
+    {
+      "itemName": "Gemstone Drill LT-522",
+      "itemPrice": 12000000
+    },
+    {
+      "itemName": "Titanium Drill DR-X355",
+      "itemPrice": 27700000
+    },
+    {
+      "itemName": "Titanium Drill DR-X455",
+      "itemPrice": 75000000
+    },
+    {
+      "itemName": "Titanium Drill DR-X555",
+      "itemPrice": 178500000
+    },
+    {
+      "itemName": "Titanium-Infused Fuel Tank",
+      "itemPrice": 28500000
+    },
+    {
+      "itemName": "Beacon V",
+      "itemPrice": 54950000
+    },
+    {
+      "itemName": "Titanium Artifact",
+      "itemPrice": 14777777
+    },
+    {
+      "itemName": "Titanium Relic",
+      "itemPrice": 30499899
+    },
+    {
+      "itemName": "Spicy Goblin Omelette",
+      "itemPrice": 15389000
+    },
+    {
+      "itemName": "Gemstone Chamber",
+      "itemPrice": 6100000
+    },
+    {
+      "itemName": "Topaz Drill KGR-12",
+      "itemPrice": 26000000
+    },
+    {
+      "itemName": "Ruby-Polished Drill Engine",
+      "itemPrice": 74300000
+    },
+    {
+      "itemName": "Gemstone Fuel Tank",
+      "itemPrice": 50000000
+    },
+    {
+      "itemName": "Amethyst Gauntlet",
+      "itemPrice": 188000000
+    },
+    {
+      "itemName": "Jade Belt",
+      "itemPrice": 171000000
+    },
+    {
+      "itemName": "Sapphire Cloak",
+      "itemPrice": 120500000
+    },
+    {
+      "itemName": "Blue Cheese Goblin Omelette",
+      "itemPrice": 133899000
+    },
+    {
+      "itemName": "Titanium Drill DR-X655",
+      "itemPrice": 318000000
+    },
+    {
+      "itemName": "Jasper Drill X",
+      "itemPrice": 54900000
+    },
+    {
+      "itemName": "Sapphire-Polished Drill Engine",
+      "itemPrice": 128999999
+    },
+    {
+      "itemName": "Helmet of Divan",
+      "itemPrice": 28200000
+    },
+    {
+      "itemName": "Chestplate of Divan",
+      "itemPrice": 30000000
+    },
+    {
+      "itemName": "Leggings of Divan",
+      "itemPrice": 27250000
+    },
+    {
+      "itemName": "Boots of Divan",
+      "itemPrice": 24500000
+    },
+    {
+      "itemName": "Amber-Polished Drill Engine",
+      "itemPrice": 229000000
+    },
+    {
+      "itemName": "Perfectly-Cut Fuel Tank",
+      "itemPrice": 103000000
+    },
+    {
+      "itemName": "[Lvl 1] T-Rex",
+      "itemPrice": 4800000
+    },
+    {
+      "itemName": "[Lvl 1] Spinosaurus",
+      "itemPrice": 6499999
+    },
+    {
+      "itemName": "[Lvl 1] Goblin",
+      "itemPrice": 8100000
+    },
+    {
+      "itemName": "[Lvl 1] Ankylosaurus",
+      "itemPrice": 6690000
+    },
+    {
+      "itemName": "[Lvl 1] Penguin",
+      "itemPrice": 6900000
+    },
+    {
+      "itemName": "[Lvl 1] Mammoth",
+      "itemPrice": 5699999
+    },
+    {
+      "itemName": "Dwarven Handwarmers",
+      "itemPrice": 29750000
+    },
+    {
+      "itemName": "Reinforced Chisel",
+      "itemPrice": 13000000
+    },
+    {
+      "itemName": "Dwarven Metal Talisman",
+      "itemPrice": 27990000
+    },
+    {
+      "itemName": "Glacite-Plated Chisel",
+      "itemPrice": 37000000
+    },
+    {
+      "itemName": "Perfect Chisel",
+      "itemPrice": 59000000
+    },
+    {
+      "itemName": "Pendant of Divan",
+      "itemPrice": 1130000000
+    },
+    {
+      "itemName": "Beacon I",
+      "itemPrice": 620000
+    },
+    {
+      "itemName": "Beacon II",
+      "itemPrice": 5399999
+    },
+    {
+      "itemName": "Titanium Talisman",
+      "itemPrice": 1500000
+    },
+    {
+      "itemName": "Helix Fossil",
+      "itemPrice": 29999
+    },
+    {
+      "itemName": "Mithril Gauntlet",
+      "itemPrice": 179999
+    },
+    {
+      "itemName": "Mithril Belt",
+      "itemPrice": 179999
+    },
+    {
+      "itemName": "Mithril Cloak",
+      "itemPrice": 170000
+    },
+    {
+      "itemName": "Mithril Necklace",
+      "itemPrice": 200000
+    },
+    {
+      "itemName": "Claw Fossil",
+      "itemPrice": 320000
+    },
+    {
+      "itemName": "Mithril Drill SX-R226",
+      "itemPrice": 7450000
+    },
+    {
+      "itemName": "Beacon III",
+      "itemPrice": 11200000
+    },
+    {
+      "itemName": "Titanium Ring",
+      "itemPrice": 5900000
+    },
+    {
+      "itemName": "Ruby Drill TX-15",
+      "itemPrice": 5700000
+    },
+    {
+      "itemName": "Titanium Drill DR-X355",
+      "itemPrice": 27700000
+    },
+    {
+      "itemName": "Titanium Drill DR-X455",
+      "itemPrice": 75000000
+    },
+    {
+      "itemName": "Titanium Drill DR-X555",
+      "itemPrice": 178500000
+    },
+    {
+      "itemName": "Mithril-Infused Fuel Tank",
+      "itemPrice": 14149000
+    },
+    {
+      "itemName": "Beacon IV",
+      "itemPrice": 26900000
+    },
+    {
+      "itemName": "Titanium Artifact",
+      "itemPrice": 14777777
+    },
+    {
+      "itemName": "Gemstone Drill LT-522",
+      "itemPrice": 12000000
+    },
+    {
+      "itemName": "Titanium-Infused Fuel Tank",
+      "itemPrice": 28500000
+    },
+    {
+      "itemName": "Topaz Drill KGR-12",
+      "itemPrice": 26000000
+    },
+    {
+      "itemName": "Titanium-Plated Drill Engine",
+      "itemPrice": 32400000
+    },
+    {
+      "itemName": "Sapphire-Polished Drill Engine",
+      "itemPrice": 128999999
+    },
+    {
+      "itemName": "Gemstone Fuel Tank",
+      "itemPrice": 50000000
+    },
+    {
+      "itemName": "Divan's Alloy",
+      "itemPrice": 1600000000
+    },
+    {
+      "itemName": "Titanium Drill DR-X655",
+      "itemPrice": 318000000
+    },
+    {
+      "itemName": "Footprint Fossil",
+      "itemPrice": 260000
+    },
+    {
+      "itemName": "Spine Fossil",
+      "itemPrice": 80000
+    },
+    {
+      "itemName": "Ugly Fossil",
+      "itemPrice": 3000000
+    },
+    {
+      "itemName": "Clubbed Fossil",
+      "itemPrice": 490000
+    },
+    {
+      "itemName": "Webbed Fossil",
+      "itemPrice": 350000
+    },
+    {
+      "itemName": "Tusk Fossil",
+      "itemPrice": 210000
+    },
+    {
+      "itemName": "Reinforced Chisel",
+      "itemPrice": 13000000
+    },
+    {
+      "itemName": "Glacite-Plated Chisel",
+      "itemPrice": 37000000
+    },
+    {
+      "itemName": "Shattered Locket",
+      "itemPrice": 994000000
+    }
+  ]
+}

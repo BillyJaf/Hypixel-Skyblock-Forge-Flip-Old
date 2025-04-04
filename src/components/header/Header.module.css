@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 1%;
+}
+
+.sidebarToggle {
+  border-radius: 12px;
+  padding: 16px;
+
+  background-color: rgba(250, 249, 246, 0.85);
+
+  height: 30px;
+  width: 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebarToggle:hover {
+  background-color: rgba(158, 158, 157, 0.85);
+  cursor: pointer;
+}

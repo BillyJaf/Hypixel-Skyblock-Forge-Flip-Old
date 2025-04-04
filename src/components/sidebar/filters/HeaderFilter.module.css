@@ -1,0 +1,27 @@
+.header {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  width: 100%;
+  justify-content: center;
+  position: relative;
+}
+
+.header:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 15%;
+  width: 70%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.header:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 15%;
+  width: 70%;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

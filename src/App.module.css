@@ -1,0 +1,15 @@
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.bodyForge {
+  margin: 0 auto;
+  text-align: center;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 1%;
+  gap: 1%;
+}

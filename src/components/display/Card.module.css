@@ -1,0 +1,39 @@
+.card {
+  border-radius: 12px;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  height: 320px;
+  gap: 5%;
+  background-color: rgba(250, 249, 246, 0.85);
+  margin: 5%;
+}
+
+.cardHeader {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.cardBody {
+  text-align: center;
+  align-items: center;
+  height: fit-content;
+}
+
+.cardBodyTextRow {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  gap: 10%;
+  margin-top: 5px;
+  max-height: 50px;
+}
+
+.cardBodyTextRow h4 {
+  min-width: 150px;
+  text-align: left;
+}
