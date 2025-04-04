@@ -6,6 +6,9 @@ This application fetches all the relevant data, calculates the cost of buying al
 
 # Demonstration
 
+![image](https://github.com/user-attachments/assets/6a4ac85c-f33f-4d59-b84f-1cb9554c8e4a)
+
+![image](https://github.com/user-attachments/assets/7b624f84-3094-48c0-895b-7064824ef14d)
 
 
 # Installation
