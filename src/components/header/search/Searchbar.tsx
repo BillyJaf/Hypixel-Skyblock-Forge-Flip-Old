@@ -7,8 +7,6 @@ import { forgeItem } from "../../../data/forge/forgeTypes";
 
 interface SearchbarProps {
   forgeItems: forgeItem[];
-  // filter: forgeFilters;
-  // setFilter: React.Dispatch<React.SetStateAction<forgeFilters>>;
 }
 
 const Searchbar: React.FC<SearchbarProps> = ({

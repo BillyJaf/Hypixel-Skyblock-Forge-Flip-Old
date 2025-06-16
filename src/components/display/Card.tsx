@@ -10,17 +10,6 @@ interface CardProps {
 }
 
 const Card: React.FC<CardProps> = ({ item, filter }: CardProps) => {
-  // Buy-Order:
-  // <div className={styles.cardBodyTextRow}>
-  //   <h4>{`Material Buy-Order:`}</h4>
-  //   <p>{materialBuyOrderPrice(item)}</p>
-  // </div>
-
-  // Sell-Offer:
-  // <div className={styles.cardBodyTextRow}>
-  //   <h4>{`Product Sell-Offer:`}</h4>
-  //   <p>{item.sellOfferPrice}</p>
-  // </div>
   const instaBuy = materialInstaBuyPrice(item);
 
   const minutesToHours = (minutes: number) => {
