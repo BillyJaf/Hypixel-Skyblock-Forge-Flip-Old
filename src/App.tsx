@@ -26,8 +26,6 @@ function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [forgeItems, setForgeItems] = useState(forgeItemsList);
 
-  console.log("come on bro")
-
   const bazaar = bazaarJSON as bazaarPages;
   const auction = auctionJSON.lbin as auctionItem[];
 

@@ -19,10 +19,11 @@ import {
 } from "./forgePriceCalculations";
 
 export async function getBazaarItems() {
-  const key = import.meta.env.HYPIXEL_API_KEY;
-  const url = "https://api.hypixel.net/v2/skyblock/bazaar";
   let prices = [];
   try {
+    const key = import.meta.env.VITE_HYPIXEL_API_KEY;
+    const url = "https://api.hypixel.net/v2/skyblock/bazaar";
+
     const response = await axios.get(url, {
       params: {
         key: key,
@@ -41,12 +42,12 @@ export async function getBazaarItems() {
 }
 
 export async function getAuctionItems() {
-  const key = import.meta.env.HYPIXEL_API_KEY;
-  const url = "https://api.hypixel.net/v2/skyblock/auctions";
   let prices: auctionItem[] = [];
   let pages = 0;
 
   try {
+    const key = import.meta.env.VITE_HYPIXEL_API_KEY;
+    const url = "https://api.hypixel.net/v2/skyblock/auctions";
     const response = await axios.get(url, {
       params: {
         key: key,
@@ -63,6 +64,8 @@ export async function getAuctionItems() {
   }
 
   try {
+    const key = import.meta.env.VITE_HYPIXEL_API_KEY;
+    const url = "https://api.hypixel.net/v2/skyblock/auctions";
     for (let i = 0; i < pages; i++) {
       const response = await axios.get(url, {
         params: {
