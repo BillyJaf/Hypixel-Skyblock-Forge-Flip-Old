@@ -7,11 +7,6 @@ The application allows for the filtering of bazaar / auction items as well as ge
 
 The Hypixel API is [here](https://api.hypixel.net/).
 
-![image](https://github.com/user-attachments/assets/6a4ac85c-f33f-4d59-b84f-1cb9554c8e4a)
-
-![image](https://github.com/user-attachments/assets/7b624f84-3094-48c0-895b-7064824ef14d)
-
-
 # Installation
 
 1. Clone the repo.
@@ -24,3 +19,30 @@ If you wish to use your API key, do the following:
 
 1. Create a file named `.env` in the root of the project.
 2. Add the following line: `VITE_HYPIXEL_API_KEY=your_api_key_here`
+
+# Usage
+
+The application is initially preloaded with data that does not accurately represent the current market, but has represented the market at one point:
+
+![image](https://github.com/user-attachments/assets/6a4ac85c-f33f-4d59-b84f-1cb9554c8e4a)
+
+To reload the data, press the reload button on the top right:
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/3cad6dca-166c-4761-9bd0-207a0541a1c3" />
+
+To filter the items, press the filter button on the top left and then toggle the filters you want to apply:
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/798cedf6-ef42-4385-9af9-d9f179ff57d1" />
+
+![image](https://github.com/user-attachments/assets/7b624f84-3094-48c0-895b-7064824ef14d)
+
+To see a specific item, search for it with the search bar at the top:
+
+<img width="1271" alt="image" src="https://github.com/user-attachments/assets/873c86fa-a34c-4de2-b337-0db30282c5b3" />
+
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/160389f5-24c8-466e-ab0b-8748d4b2ee76" />
+
+
+
+
+
