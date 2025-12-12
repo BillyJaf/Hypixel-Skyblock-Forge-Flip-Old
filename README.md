@@ -1,3 +1,16 @@
+# BEFORE READING
+This project was great to get working with React and creating an application that is usable. While the app is functional, upon revisiting it I have noticied that there are several features that I would like to rewrite/change completely now that I have more knowledge. These features include (but are not limited to):
+- Predefining Internal Data Structures: I currently store/use the data that is sent directly to me from the Hypixel API and as a result, I am at their mercy. The result of this is the example/default bazaar data consisting of 226,642 lines of JSON (as can be seen [here](https://github.com/BillyJaf/Hypixel-Skyblock-Forge-Flip-Old/blob/main/src/data/exampleMarkets/exampleBazaar.json)).
+- Providing Filter Context: I currently wrap the application in a FilterContext component yet still drill the props to child components (as can be seen [here](https://github.com/BillyJaf/Hypixel-Skyblock-Forge-Flip-Old/blob/main/src/App.tsx#L45-L59)).
+- Inconsistent Use of Libraries: I abstracted several of the components (such as the search bar) to pre-made react components, yet decided to create my own for other components seemingly randomly. It would be better to search for a library (such as MUI) and use their components consistently.
+- Impossible to Debug Logic: The code is littered with logic that, as I revisit several months later, is near impossible to debug (as can be seen [here](https://github.com/BillyJaf/Hypixel-Skyblock-Forge-Flip-Old/blob/main/src/components/display/Card.tsx#L12-L76)).
+- General File Structure: The file structure is fine, but there are some misplaced files. This can be seen in conjuction with the 'impossible ot debug logic' - better abstraction and centralisation of logic would help this.
+- General UI: There are some minor features that I would fix - such as the scroll bar always being present.
+
+Furthermore, this application is currently not deployable despite it working. Giving the user the option to refresh/request data from the Hypixel API allows for easy absue and an enormous bill to my AWS account. A better solution would be to have an external program that runs once a day and updates a database which the frontend can read. This would provide the user with fresh-enough prices while not costing me a fortune and could most likely be accomplished with an AWS lambda and an eventbridge scheduler.   
+
+Combining the above, this repository now serves as the legacy version of the updated/refactored Hypixel Skyblock Forge Flipper. Users can still clone and use the program on their own machine, however this version of the project is no longer maintained. At the time of writing (12/12/2025) the application still functions.
+
 # Hypixel Skyblock Forge-Flipper
 
 In Hypixel skyblock, players can put items into the forge, wait for a few hours and then collect their newly forged item.
