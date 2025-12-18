@@ -9,7 +9,7 @@ This project was great to get working with React and creating an application tha
 
 Furthermore, this application is currently not deployable despite it working. Giving the user the option to refresh/request data from the Hypixel API allows for easy absue and an enormous bill to my AWS account. A better solution would be to have an external program that runs once a day and updates a database which the frontend can read. This would provide the user with fresh-enough prices while not costing me a fortune and could most likely be accomplished with an AWS lambda and an eventbridge scheduler.   
 
-Combining the above, this repository now serves as the legacy version of the updated/refactored Hypixel Skyblock Forge Flipper. Users can still clone and use the program on their own machine, however this version of the project is no longer maintained. At the time of writing (12/12/2025) the application still functions.
+Combining the above, this repository now serves as the legacy version of the updated/refactored Hypixel Skyblock Forge Flipper. Users can still clone and use the program on their own machine, however this version of the project is no longer maintained. At the time of writing (12/12/2025) the application still functions. The updated, new project can be found [here](https://github.com/BillyJaf/Hypixel-Skyblock-Forge-Flip).
 
 # Hypixel Skyblock Forge-Flipper
 
